@@ -1,0 +1,127 @@
+{
+    "header": {
+        "kodeReferensiPengguna": "BDM/1004202503",
+        "tanggalHasil": "20250410145123",
+        "idPermintaan": "644162317",
+        "idPenggunaPermintaan": "4033371",
+        "dibuatOleh": "32613-CMB2 Bandung-DANI NURJAMAN",
+        "kodeLJKPermintaan": "009",
+        "kodeCabangPermintaan": "901",
+        "kodeTujuanPermintaan": "01",
+        "tanggalPermintaan": "20250410145122",
+        "totalBagian": "1",
+        "nomorBagian": "1"
+    },
+    "perusahaan": {
+        "nomorLaporan": "930426/IDEB/0101009/2025",
+        "posisiDataTerakhir": "202209",
+        "tanggalPermintaan": "20250410145122",
+        "parameterPencarian": {
+            "namaBadanUsaha": "Medal Jaya",
+            "npwp": "",
+            "tempatPendirian": "",
+            "tanggalAktaPendirian": "",
+            "nomorAktaPendirian": ""
+        },
+        "dataPokokDebitur": [
+            {
+                "namaDebitur": "CV MEDAL JAYA",
+                "namaLengkap": "CV MEDAL JAYA",
+                "npwp": "756771879446000",
+                "bentukBu": "01",
+                "goPublic": "T",
+                "bentukBuKet": "Badan Usaha Milik Desa (BUMDes)",
+                "tempatPendirian": "SUMEDANG",
+                "noAktaPendirian": "15",
+                "tglAktaPendirian": "20160222",
+                "pelapor": "002",
+                "pelaporKet": "PT Bank Rakyat Indonesia (Persero) Tbk",
+                "tanggalDibentuk": "20180110231707",
+                "tanggalUpdate": "20221010004733",
+                "alamat": "JL PRABU GAJAH AGUNG NO 18 RT 04 RW 12",
+                "kelurahan": "SITU KEL",
+                "kecamatan": "SUMEDANG UTARA",
+                "kabKota": "0112",
+                "kabKotaKet": "Kab. Sumedang",
+                "kodePos": "45323",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "15",
+                "tglAktaTerakhir": "20160222",
+                "sektorEkonomi": "475200",
+                "sektorEkonomiKet": "Perdagangan Eceran Khusus Barang dan Bahan Bangunan, Cat dan Kaca Di Toko",
+                "pemeringkat": "SNP",
+                "pemeringkatKet": "Standard And Poor's",
+                "peringkat": "",
+                "tanggalPemeringkatan": "20171214"
+            }
+        ],
+        "kelompokPengurusPemilik": [
+            {
+                "kodeLJK": "002",
+                "namaLJK": "PT Bank Rakyat Indonesia (Persero) Tbk",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "ENUR NURWULAN",
+                        "nomorIdentitas": "3211175102740007",
+                        "kodeJenisKelamin": "P",
+                        "jenisKelamin": "PEREMPUAN",
+                        "kodePosisiPekerjaan": "03",
+                        "posisiPekerjaan": "PEMILIK - Komisaris Utama / Pres. Kom",
+                        "prosentaseKepemilikan": "50",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "JL KUTAMAYA NO 188 RT 01 RW 13",
+                        "kelurahan": "KOTAKULON",
+                        "kecamatan": "SUMEDANG UTARA",
+                        "kodeKota": "0112",
+                        "kota": "Kab. Sumedang"
+                    },
+                    {
+                        "namaSesuaiIdentitas": "TOTO RUSMANA",
+                        "nomorIdentitas": "3211170902710007",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "01",
+                        "posisiPekerjaan": "PEMILIK-Direktur Utama/Presiden Direktur",
+                        "prosentaseKepemilikan": "50",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "JL KUTAMAYA NO 188 RT 01 RW 13",
+                        "kelurahan": "KOTAKULON",
+                        "kecamatan": "SUMEDANG UTARA",
+                        "kodeKota": "0112",
+                        "kota": "Kab. Sumedang"
+                    }
+                ]
+            }
+        ],
+        "ringkasanFasilitas": {
+            "plafonEfektifKreditPembiayaan": "",
+            "plafonEfektifLc": "",
+            "plafonEfektifGyd": "",
+            "plafonEfektifSec": "",
+            "plafonEfektifLain": "",
+            "plafonEfektifTotal": "0",
+            "bakiDebetKreditPembiayaan": "",
+            "bakiDebetLc": "",
+            "bakiDebetGyd": "",
+            "bakiDebetSec": "",
+            "bakiDebetLain": "",
+            "bakiDebetTotal": "0",
+            "krediturBankUmum": "0",
+            "krediturBPR/S": "0",
+            "krediturLp": "0",
+            "krediturLainnya": "0",
+            "kualitasTerburuk": "",
+            "kualitasBulanDataTerburuk": ""
+        },
+        "fasilitas": {
+            "suratBerharga": [],
+            "kreditPembiayan": [],
+            "lc": [],
+            "garansiYgDiberikan": [],
+            "fasilitasLain": []
+        }
+    }
+}

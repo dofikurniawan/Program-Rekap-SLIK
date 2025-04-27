@@ -1,0 +1,164 @@
+{
+    "header": {
+        "kodeReferensiPengguna": "BDM/11042025",
+        "tanggalHasil": "20250410150426",
+        "idPermintaan": "644169625",
+        "idPenggunaPermintaan": "4033371",
+        "dibuatOleh": "32613-CMB2 Bandung-DANI NURJAMAN",
+        "kodeLJKPermintaan": "009",
+        "kodeCabangPermintaan": "901",
+        "kodeTujuanPermintaan": "01",
+        "tanggalPermintaan": "20250410150425",
+        "totalBagian": "1",
+        "nomorBagian": "1"
+    },
+    "perusahaan": {
+        "nomorLaporan": "930673/IDEB/0101009/2025",
+        "posisiDataTerakhir": "202404",
+        "tanggalPermintaan": "20250410150425",
+        "parameterPencarian": {
+            "namaBadanUsaha": "Galih Kencana",
+            "npwp": "",
+            "tempatPendirian": "",
+            "tanggalAktaPendirian": "",
+            "nomorAktaPendirian": ""
+        },
+        "dataPokokDebitur": [
+            {
+                "namaDebitur": "GALIH KENCANA",
+                "namaLengkap": "GALIH KENCANA",
+                "npwp": "012804522445000",
+                "bentukBu": "02",
+                "goPublic": "T",
+                "bentukBuKet": "Commanditer Venotschap (CV)",
+                "tempatPendirian": "BANDUNG",
+                "noAktaPendirian": "22/11-02-1986/APITWIDJAJASH",
+                "tglAktaPendirian": "19860211",
+                "pelapor": "110",
+                "pelaporKet": "PT BPD Jawa Barat Dan Banten Tbk",
+                "tanggalDibentuk": "20170518190959",
+                "tanggalUpdate": "20240508225900",
+                "alamat": "TAMAN KOPO KATAPANG BLOK G6 NO 3 RT 003 RW 014",
+                "kelurahan": "KELURAHAN PANGAUBAN",
+                "kecamatan": "KECAMATAN KATAPANG",
+                "kabKota": "0191",
+                "kabKotaKet": "Kota Bandung ",
+                "kodePos": "40226",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "10/13-05-2022/FAJARNURRACHMANK",
+                "tglAktaTerakhir": "20160928",
+                "sektorEkonomi": "471100",
+                "sektorEkonomiKet": "Perdagangan Eceran Yang Utamanya Makanan, Minuman Atau Tembakau Di Toko",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            },
+            {
+                "namaDebitur": "GALIH KENCANA",
+                "namaLengkap": "GALIH KENCANA",
+                "npwp": "012804522445000",
+                "bentukBu": "99",
+                "goPublic": "T",
+                "bentukBuKet": "Lainnya",
+                "tempatPendirian": "BANDUNG",
+                "noAktaPendirian": "22/APIT WIDJAJA SH",
+                "tglAktaPendirian": "19860101",
+                "pelapor": "009",
+                "pelaporKet": "PT Bank Negara Indonesia (Persero) Tbk",
+                "tanggalDibentuk": "20220817195740",
+                "tanggalUpdate": "20240111004030",
+                "alamat": "TAMAN KOPO KATAPANG BLOK GG NO 3 .  .  G",
+                "kelurahan": "PANGAUBAN",
+                "kecamatan": "KATAPANG           /BANDUNG",
+                "kabKota": "0111",
+                "kabKotaKet": "Kab. Bandung ",
+                "kodePos": "40921",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "22/APIT WIDJAJA SH",
+                "tglAktaTerakhir": "19860101",
+                "sektorEkonomi": "009000",
+                "sektorEkonomiKet": "Bukan Lapangan Usaha Lainnya",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            }
+        ],
+        "kelompokPengurusPemilik": [
+            {
+                "kodeLJK": "009",
+                "namaLJK": "PT Bank Negara Indonesia (Persero) Tbk",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "GALIH KENCANA",
+                        "nomorIdentitas": "012804522445000",
+                        "kodeJenisKelamin": "B",
+                        "jenisKelamin": "BADAN USAHA",
+                        "kodePosisiPekerjaan": "19",
+                        "posisiPekerjaan": "PEMILIK - Lainnya",
+                        "prosentaseKepemilikan": "100",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "TAMAN KOPO KATAPANG BLOK GG NO 3 .  .  G",
+                        "kelurahan": "PANGAUBAN",
+                        "kecamatan": "KATAPANG           /BANDUNG",
+                        "kodeKota": "0111",
+                        "kota": "Kab. Bandung "
+                    }
+                ]
+            },
+            {
+                "kodeLJK": "110",
+                "namaLJK": "PT BPD Jawa Barat Dan Banten Tbk",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "RIANA WULANDARI",
+                        "nomorIdentitas": "012804522445000",
+                        "kodeJenisKelamin": "P",
+                        "jenisKelamin": "PEREMPUAN",
+                        "kodePosisiPekerjaan": "02",
+                        "posisiPekerjaan": "PEMILIK - Direktur",
+                        "prosentaseKepemilikan": "100",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "TAMAN KOPO KATAPANG BLOK G6 NO 3 RT 003 RW 014 PANGAUBAN KATAPANG KAB BANDUNG",
+                        "kelurahan": "PANGAUBAN",
+                        "kecamatan": "KATAPANG",
+                        "kodeKota": "0111",
+                        "kota": "Kab. Bandung "
+                    }
+                ]
+            }
+        ],
+        "ringkasanFasilitas": {
+            "plafonEfektifKreditPembiayaan": "",
+            "plafonEfektifLc": "",
+            "plafonEfektifGyd": "",
+            "plafonEfektifSec": "",
+            "plafonEfektifLain": "",
+            "plafonEfektifTotal": "0",
+            "bakiDebetKreditPembiayaan": "",
+            "bakiDebetLc": "",
+            "bakiDebetGyd": "",
+            "bakiDebetSec": "",
+            "bakiDebetLain": "",
+            "bakiDebetTotal": "0",
+            "krediturBankUmum": "0",
+            "krediturBPR/S": "0",
+            "krediturLp": "0",
+            "krediturLainnya": "0",
+            "kualitasTerburuk": "",
+            "kualitasBulanDataTerburuk": ""
+        },
+        "fasilitas": {
+            "suratBerharga": [],
+            "kreditPembiayan": [],
+            "lc": [],
+            "garansiYgDiberikan": [],
+            "fasilitasLain": []
+        }
+    }
+}

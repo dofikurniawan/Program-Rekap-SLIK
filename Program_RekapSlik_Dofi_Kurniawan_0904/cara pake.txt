@@ -1,0 +1,14 @@
+1. Install Anaconda
+https://www.anaconda.com/products/distribution/start-coding-immediately
+2. cara install Anaconda :
+https://www.youtube.com/watch?v=vw3Ethalc2U&t=610s&ab_channel=portalcoding
+3. Buka Ideb Viewer convert ke txt, jangan ke pdf
+4. copy data txt ke folder input (pisahkan mana yang perusahaan dan individu) 
+5. Buka Anaconda Navigator yang telah terinstall lalu cari Spyder kemudian launch Spyder
+6. Untuk rekap slik perusahaan:
+	Setelah Spyder terbuka open source code yang ada di folder (Program_Rekap_SLIK\perusahaan\slik_perusahaan_gabungan.py)
+7. Untuk rekap slik individu:
+	Setelah Spyder terbuka open source code yang ada di folder (Program_Rekap_SLIK\perusahaan\slik_individu_gabungan.py)
+8. Run program di Spyder dengan menekan running (mirip tombol play) atau biasanya pake f5 juga bisaa
+9. kemudian cek hasil rekapan di folder hasil
+#Selamat mencoba hahaha    

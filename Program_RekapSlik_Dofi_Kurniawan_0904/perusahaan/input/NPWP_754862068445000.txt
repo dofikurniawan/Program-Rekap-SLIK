@@ -1,0 +1,111 @@
+{
+    "header": {
+        "kodeReferensiPengguna": "BDM/1104202501",
+        "tanggalHasil": "20250410150657",
+        "idPermintaan": "644171159",
+        "idPenggunaPermintaan": "4033371",
+        "dibuatOleh": "32613-CMB2 Bandung-DANI NURJAMAN",
+        "kodeLJKPermintaan": "009",
+        "kodeCabangPermintaan": "901",
+        "kodeTujuanPermintaan": "01",
+        "tanggalPermintaan": "20250410150656",
+        "totalBagian": "1",
+        "nomorBagian": "1"
+    },
+    "perusahaan": {
+        "nomorLaporan": "930719/IDEB/0101009/2025",
+        "posisiDataTerakhir": "202305",
+        "tanggalPermintaan": "20250410150656",
+        "parameterPencarian": {
+            "namaBadanUsaha": "Nabila Abadi",
+            "npwp": "",
+            "tempatPendirian": "",
+            "tanggalAktaPendirian": "",
+            "nomorAktaPendirian": ""
+        },
+        "dataPokokDebitur": [
+            {
+                "namaDebitur": "NABILA ABADI",
+                "namaLengkap": "NABILA ABADI",
+                "npwp": "754862068445000",
+                "bentukBu": "02",
+                "goPublic": "T",
+                "bentukBuKet": "Commanditer Venotschap (CV)",
+                "tempatPendirian": "MUSNI MARLINA SH MKN",
+                "noAktaPendirian": "162/02-02-2016/MUSNI",
+                "tglAktaPendirian": "20160220",
+                "pelapor": "110",
+                "pelaporKet": "PT BPD Jawa Barat Dan Banten Tbk",
+                "tanggalDibentuk": "20170915173039",
+                "tanggalUpdate": "20230609202233",
+                "alamat": "KOMPLEK TAMAN KOPO KATAPANG BLOK N2 NO 7 RT003 RW014",
+                "kelurahan": "PANGAUBAN",
+                "kecamatan": "KATAPANG",
+                "kabKota": "0191",
+                "kabKotaKet": "Kota Bandung ",
+                "kodePos": "40911",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "163/02-02-2017/MUSNI",
+                "tglAktaTerakhir": "20170202",
+                "sektorEkonomi": "464110",
+                "sektorEkonomiKet": "Perdagangan Besar Tekstil",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            }
+        ],
+        "kelompokPengurusPemilik": [
+            {
+                "kodeLJK": "110",
+                "namaLJK": "PT BPD Jawa Barat Dan Banten Tbk",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "RIAN ARDIANSAH",
+                        "nomorIdentitas": "754862068445000",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "02",
+                        "posisiPekerjaan": "PEMILIK - Direktur",
+                        "prosentaseKepemilikan": "100",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "KOMPLEK TAMAN KOPO KATAPANG BLOK N2 NO 7 RT003 RW014",
+                        "kelurahan": "PANGAUBAN",
+                        "kecamatan": "KATAPANG",
+                        "kodeKota": "0111",
+                        "kota": "Kab. Bandung "
+                    }
+                ]
+            }
+        ],
+        "ringkasanFasilitas": {
+            "plafonEfektifKreditPembiayaan": "",
+            "plafonEfektifLc": "",
+            "plafonEfektifGyd": "",
+            "plafonEfektifSec": "",
+            "plafonEfektifLain": "",
+            "plafonEfektifTotal": "0",
+            "bakiDebetKreditPembiayaan": "",
+            "bakiDebetLc": "",
+            "bakiDebetGyd": "",
+            "bakiDebetSec": "",
+            "bakiDebetLain": "",
+            "bakiDebetTotal": "0",
+            "krediturBankUmum": "0",
+            "krediturBPR/S": "0",
+            "krediturLp": "0",
+            "krediturLainnya": "0",
+            "kualitasTerburuk": "",
+            "kualitasBulanDataTerburuk": ""
+        },
+        "fasilitas": {
+            "suratBerharga": [],
+            "kreditPembiayan": [],
+            "lc": [],
+            "garansiYgDiberikan": [],
+            "fasilitasLain": []
+        }
+    }
+}

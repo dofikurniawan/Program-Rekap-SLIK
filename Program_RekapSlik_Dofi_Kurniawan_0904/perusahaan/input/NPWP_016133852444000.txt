@@ -1,0 +1,111 @@
+{
+    "header": {
+        "kodeReferensiPengguna": "BDM/1104202504",
+        "tanggalHasil": "20250410151100",
+        "idPermintaan": "644173612",
+        "idPenggunaPermintaan": "4033371",
+        "dibuatOleh": "32613-CMB2 Bandung-DANI NURJAMAN",
+        "kodeLJKPermintaan": "009",
+        "kodeCabangPermintaan": "901",
+        "kodeTujuanPermintaan": "01",
+        "tanggalPermintaan": "20250410151100",
+        "totalBagian": "1",
+        "nomorBagian": "1"
+    },
+    "perusahaan": {
+        "nomorLaporan": "930821/IDEB/0101009/2025",
+        "posisiDataTerakhir": "202201",
+        "tanggalPermintaan": "20250410151100",
+        "parameterPencarian": {
+            "namaBadanUsaha": "Adi Putera",
+            "npwp": "",
+            "tempatPendirian": "",
+            "tanggalAktaPendirian": "",
+            "nomorAktaPendirian": ""
+        },
+        "dataPokokDebitur": [
+            {
+                "namaDebitur": "ADI PUTERA CV",
+                "namaLengkap": "ADI PUTERA CV",
+                "npwp": "016133852444000",
+                "bentukBu": "02",
+                "goPublic": "T",
+                "bentukBuKet": "Commanditer Venotschap (CV)",
+                "tempatPendirian": "BANDUNG",
+                "noAktaPendirian": "70",
+                "tglAktaPendirian": "19931106",
+                "pelapor": "110",
+                "pelaporKet": "PT BPD Jawa Barat Dan Banten Tbk",
+                "tanggalDibentuk": "20170518190959",
+                "tanggalUpdate": "20220210202211",
+                "alamat": "JL.CIPICUNG RT 03/01 MANGGAHANG BALEENDAH KABUPATEN BANDUNG",
+                "kelurahan": "MANGGAHANG BALEENDAH",
+                "kecamatan": "KABUPATEN BANDUNG",
+                "kabKota": "0111",
+                "kabKotaKet": "Kab. Bandung ",
+                "kodePos": "40000",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "1",
+                "tglAktaTerakhir": "20011201",
+                "sektorEkonomi": "930000",
+                "sektorEkonomiKet": "Aktivitas Olahraga dan Rekreasi Lainnya",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            }
+        ],
+        "kelompokPengurusPemilik": [
+            {
+                "kodeLJK": "110",
+                "namaLJK": "PT BPD Jawa Barat Dan Banten Tbk",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "WINNY FITRIASARI",
+                        "nomorIdentitas": "3604345708860168",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "02",
+                        "posisiPekerjaan": "PEMILIK - Direktur",
+                        "prosentaseKepemilikan": "100",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "JL.CIPICUNG RT 03/01 MANGGAHANG BALEENDAH",
+                        "kelurahan": "BALEENDAH",
+                        "kecamatan": "BANDUNG",
+                        "kodeKota": "0111",
+                        "kota": "Kab. Bandung "
+                    }
+                ]
+            }
+        ],
+        "ringkasanFasilitas": {
+            "plafonEfektifKreditPembiayaan": "",
+            "plafonEfektifLc": "",
+            "plafonEfektifGyd": "",
+            "plafonEfektifSec": "",
+            "plafonEfektifLain": "",
+            "plafonEfektifTotal": "0",
+            "bakiDebetKreditPembiayaan": "",
+            "bakiDebetLc": "",
+            "bakiDebetGyd": "",
+            "bakiDebetSec": "",
+            "bakiDebetLain": "",
+            "bakiDebetTotal": "0",
+            "krediturBankUmum": "0",
+            "krediturBPR/S": "0",
+            "krediturLp": "0",
+            "krediturLainnya": "0",
+            "kualitasTerburuk": "",
+            "kualitasBulanDataTerburuk": ""
+        },
+        "fasilitas": {
+            "suratBerharga": [],
+            "kreditPembiayan": [],
+            "lc": [],
+            "garansiYgDiberikan": [],
+            "fasilitasLain": []
+        }
+    }
+}

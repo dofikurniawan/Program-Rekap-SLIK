@@ -1,0 +1,111 @@
+{
+    "header": {
+        "kodeReferensiPengguna": "BDM/1004202502",
+        "tanggalHasil": "20250410144917",
+        "idPermintaan": "644161128",
+        "idPenggunaPermintaan": "4033371",
+        "dibuatOleh": "32613-CMB2 Bandung-DANI NURJAMAN",
+        "kodeLJKPermintaan": "009",
+        "kodeCabangPermintaan": "901",
+        "kodeTujuanPermintaan": "01",
+        "tanggalPermintaan": "20250410144917",
+        "totalBagian": "1",
+        "nomorBagian": "1"
+    },
+    "perusahaan": {
+        "nomorLaporan": "930357/IDEB/0101009/2025",
+        "posisiDataTerakhir": "201909",
+        "tanggalPermintaan": "20250410144917",
+        "parameterPencarian": {
+            "namaBadanUsaha": "CV Adi Putra",
+            "npwp": "",
+            "tempatPendirian": "",
+            "tanggalAktaPendirian": "",
+            "nomorAktaPendirian": ""
+        },
+        "dataPokokDebitur": [
+            {
+                "namaDebitur": "CV ADI PUTRA",
+                "namaLengkap": "CV ADI PUTRA",
+                "npwp": "574671772419000",
+                "bentukBu": "02",
+                "goPublic": "T",
+                "bentukBuKet": "Commanditer Venotschap (CV)",
+                "tempatPendirian": "PANDEGLANG",
+                "noAktaPendirian": "31/26-09-2016",
+                "tglAktaPendirian": "20160926",
+                "pelapor": "137",
+                "pelaporKet": "PT BPD Banten Tbk",
+                "tanggalDibentuk": "20171120144609",
+                "tanggalUpdate": "20191010074128",
+                "alamat": "KP BOLONGRT 002 RW 001",
+                "kelurahan": "SALAPRAYA",
+                "kecamatan": "JIPUT",
+                "kabKota": "0202",
+                "kabKotaKet": "Kab. Pandeglang ",
+                "kodePos": "42213",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "31/26-09-2016",
+                "tglAktaTerakhir": "20160926",
+                "sektorEkonomi": "X-004180",
+                "sektorEkonomiKet": "Rumah Tangga untuk Keperluan yang Tidak Diklasifikasikan di Tempat Lain - Rumah Tangga Untuk Keperluan Multiguna Beragunan Ruko/Rukan",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            }
+        ],
+        "kelompokPengurusPemilik": [
+            {
+                "kodeLJK": "137",
+                "namaLJK": "PT BPD Banten Tbk",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "USEP SUBHAN",
+                        "nomorIdentitas": "3601132306550001",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "02",
+                        "posisiPekerjaan": "PEMILIK - Direktur",
+                        "prosentaseKepemilikan": "100",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "KP KADU BANGKONG",
+                        "kelurahan": "PANDEGLANG",
+                        "kecamatan": "PANDEGLANG",
+                        "kodeKota": "0202",
+                        "kota": "Kab. Pandeglang "
+                    }
+                ]
+            }
+        ],
+        "ringkasanFasilitas": {
+            "plafonEfektifKreditPembiayaan": "",
+            "plafonEfektifLc": "",
+            "plafonEfektifGyd": "",
+            "plafonEfektifSec": "",
+            "plafonEfektifLain": "",
+            "plafonEfektifTotal": "0",
+            "bakiDebetKreditPembiayaan": "",
+            "bakiDebetLc": "",
+            "bakiDebetGyd": "",
+            "bakiDebetSec": "",
+            "bakiDebetLain": "",
+            "bakiDebetTotal": "0",
+            "krediturBankUmum": "0",
+            "krediturBPR/S": "0",
+            "krediturLp": "0",
+            "krediturLainnya": "0",
+            "kualitasTerburuk": "",
+            "kualitasBulanDataTerburuk": ""
+        },
+        "fasilitas": {
+            "suratBerharga": [],
+            "kreditPembiayan": [],
+            "lc": [],
+            "garansiYgDiberikan": [],
+            "fasilitasLain": []
+        }
+    }
+}

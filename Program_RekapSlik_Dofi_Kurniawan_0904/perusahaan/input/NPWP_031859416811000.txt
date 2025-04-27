@@ -1,0 +1,127 @@
+{
+    "header": {
+        "kodeReferensiPengguna": "BDM/1004202502",
+        "tanggalHasil": "20250410144917",
+        "idPermintaan": "644161128",
+        "idPenggunaPermintaan": "4033371",
+        "dibuatOleh": "32613-CMB2 Bandung-DANI NURJAMAN",
+        "kodeLJKPermintaan": "009",
+        "kodeCabangPermintaan": "901",
+        "kodeTujuanPermintaan": "01",
+        "tanggalPermintaan": "20250410144917",
+        "totalBagian": "1",
+        "nomorBagian": "1"
+    },
+    "perusahaan": {
+        "nomorLaporan": "930357/IDEB/0101009/2025",
+        "posisiDataTerakhir": "202108",
+        "tanggalPermintaan": "20250410144917",
+        "parameterPencarian": {
+            "namaBadanUsaha": "CV Adi Putra",
+            "npwp": "",
+            "tempatPendirian": "",
+            "tanggalAktaPendirian": "",
+            "nomorAktaPendirian": ""
+        },
+        "dataPokokDebitur": [
+            {
+                "namaDebitur": "CV ADI PUTRA",
+                "namaLengkap": "CV ADI PUTRA",
+                "npwp": "031859416811000",
+                "bentukBu": "02",
+                "goPublic": "T",
+                "bentukBuKet": "Commanditer Venotschap (CV)",
+                "tempatPendirian": "KENDARI",
+                "noAktaPendirian": "01",
+                "tglAktaPendirian": "20120107",
+                "pelapor": "002",
+                "pelaporKet": "PT Bank Rakyat Indonesia (Persero) Tbk",
+                "tanggalDibentuk": "20171030003126",
+                "tanggalUpdate": "20210914163855",
+                "alamat": "JL MAYJEN KATAMSO KENDARI",
+                "kelurahan": "BARUGA KEL",
+                "kecamatan": "MANDONGA",
+                "kabKota": "6991",
+                "kabKotaKet": "Kota Kendari ",
+                "kodePos": "93116",
+                "negara": "AD",
+                "negaraKet": "Andorra",
+                "noAktaTerakhir": "01",
+                "tglAktaTerakhir": "20120107",
+                "sektorEkonomi": "X-519009",
+                "sektorEkonomiKet": "Perdagangan Dalam Negeri yang Tidak Diklasifikasikan di Tempat Lain",
+                "pemeringkat": "X-99",
+                "pemeringkatKet": "LAINNYA",
+                "peringkat": "",
+                "tanggalPemeringkatan": "20170828"
+            }
+        ],
+        "kelompokPengurusPemilik": [
+            {
+                "kodeLJK": "002",
+                "namaLJK": "PT Bank Rakyat Indonesia (Persero) Tbk",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "DARWIS",
+                        "nomorIdentitas": "7471032202800001",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "02",
+                        "posisiPekerjaan": "PEMILIK - Direktur",
+                        "prosentaseKepemilikan": "100",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "JL MAYJEN KATAMSO NO1 KENDARI",
+                        "kelurahan": "BARUGA",
+                        "kecamatan": "BARUGA",
+                        "kodeKota": "6991",
+                        "kota": "Kota Kendari "
+                    },
+                    {
+                        "namaSesuaiIdentitas": "MUH RIZAL SALAHUDDIN",
+                        "nomorIdentitas": "7471030706770001",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "55",
+                        "posisiPekerjaan": "BUKAN PEMILIK - Kuasa Direksi",
+                        "prosentaseKepemilikan": "0",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "JL MAYJEN KATAMSO NO1",
+                        "kelurahan": "BARUGA",
+                        "kecamatan": "BARUGA",
+                        "kodeKota": "6991",
+                        "kota": "Kota Kendari "
+                    }
+                ]
+            }
+        ],
+        "ringkasanFasilitas": {
+            "plafonEfektifKreditPembiayaan": "",
+            "plafonEfektifLc": "",
+            "plafonEfektifGyd": "",
+            "plafonEfektifSec": "",
+            "plafonEfektifLain": "",
+            "plafonEfektifTotal": "0",
+            "bakiDebetKreditPembiayaan": "",
+            "bakiDebetLc": "",
+            "bakiDebetGyd": "",
+            "bakiDebetSec": "",
+            "bakiDebetLain": "",
+            "bakiDebetTotal": "0",
+            "krediturBankUmum": "0",
+            "krediturBPR/S": "0",
+            "krediturLp": "0",
+            "krediturLainnya": "0",
+            "kualitasTerburuk": "",
+            "kualitasBulanDataTerburuk": ""
+        },
+        "fasilitas": {
+            "suratBerharga": [],
+            "kreditPembiayan": [],
+            "lc": [],
+            "garansiYgDiberikan": [],
+            "fasilitasLain": []
+        }
+    }
+}

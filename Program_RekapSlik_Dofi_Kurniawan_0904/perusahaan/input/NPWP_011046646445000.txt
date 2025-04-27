@@ -1,0 +1,164 @@
+{
+    "header": {
+        "kodeReferensiPengguna": "BDM/1004202503",
+        "tanggalHasil": "20250410145123",
+        "idPermintaan": "644162317",
+        "idPenggunaPermintaan": "4033371",
+        "dibuatOleh": "32613-CMB2 Bandung-DANI NURJAMAN",
+        "kodeLJKPermintaan": "009",
+        "kodeCabangPermintaan": "901",
+        "kodeTujuanPermintaan": "01",
+        "tanggalPermintaan": "20250410145122",
+        "totalBagian": "1",
+        "nomorBagian": "1"
+    },
+    "perusahaan": {
+        "nomorLaporan": "930426/IDEB/0101009/2025",
+        "posisiDataTerakhir": "202501",
+        "tanggalPermintaan": "20250410145122",
+        "parameterPencarian": {
+            "namaBadanUsaha": "Medal Jaya",
+            "npwp": "",
+            "tempatPendirian": "",
+            "tanggalAktaPendirian": "",
+            "nomorAktaPendirian": ""
+        },
+        "dataPokokDebitur": [
+            {
+                "namaDebitur": "MEDAL JAYA IDA WIDANINGSIH HJ",
+                "namaLengkap": "MEDAL JAYA IDA WIDANINGSIH HJ",
+                "npwp": "011046646445000",
+                "bentukBu": "02",
+                "goPublic": "T",
+                "bentukBuKet": "Commanditer Venotschap (CV)",
+                "tempatPendirian": "BANDUNG",
+                "noAktaPendirian": "134/29-05-1980/APITWIDJAJASH",
+                "tglAktaPendirian": "19800529",
+                "pelapor": "110",
+                "pelaporKet": "PT BPD Jawa Barat Dan Banten Tbk",
+                "tanggalDibentuk": "20170518190959",
+                "tanggalUpdate": "20250207180533",
+                "alamat": "JL.HOLIS KOMP.BPK NO.4 BANDUNG RT 003 RW 014",
+                "kelurahan": "PANGAUBAN",
+                "kecamatan": "KATAPANG",
+                "kabKota": "0191",
+                "kabKotaKet": "Kota Bandung ",
+                "kodePos": "40000",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "12/13-05-2022/FAJARNURRACHMANK",
+                "tglAktaTerakhir": "19990407",
+                "sektorEkonomi": "466990",
+                "sektorEkonomiKet": "Perdagangan Besar Produk Lainnya Ytdl",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            },
+            {
+                "namaDebitur": "MEDAL JAYA",
+                "namaLengkap": "MEDAL JAYA",
+                "npwp": "011046646445000",
+                "bentukBu": "02",
+                "goPublic": "T",
+                "bentukBuKet": "Commanditer Venotschap (CV)",
+                "tempatPendirian": "BANDUNG",
+                "noAktaPendirian": "134/APIT WIDJAJA SH",
+                "tglAktaPendirian": "19800529",
+                "pelapor": "009",
+                "pelaporKet": "PT Bank Negara Indonesia (Persero) Tbk",
+                "tanggalDibentuk": "20220715180528",
+                "tanggalUpdate": "20231011054124",
+                "alamat": "KOMPLEK TAMAN KOPO KATAPANG BLOK G6 NO3 003014",
+                "kelurahan": "PANGAUBAN",
+                "kecamatan": "KATAPANG           /BANDUNG",
+                "kabKota": "0111",
+                "kabKotaKet": "Kab. Bandung ",
+                "kodePos": "40921",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "134/APIT WIDJAJA SH",
+                "tglAktaTerakhir": "19800529",
+                "sektorEkonomi": "009000",
+                "sektorEkonomiKet": "Bukan Lapangan Usaha Lainnya",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            }
+        ],
+        "kelompokPengurusPemilik": [
+            {
+                "kodeLJK": "009",
+                "namaLJK": "PT Bank Negara Indonesia (Persero) Tbk",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "MEDAL JAYA",
+                        "nomorIdentitas": "011046646445000",
+                        "kodeJenisKelamin": "B",
+                        "jenisKelamin": "BADAN USAHA",
+                        "kodePosisiPekerjaan": "19",
+                        "posisiPekerjaan": "PEMILIK - Lainnya",
+                        "prosentaseKepemilikan": "100",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "KOMPLEK TAMAN KOPO KATAPANG BLOK G6 NO3 003014",
+                        "kelurahan": "PANGAUBAN",
+                        "kecamatan": "KATAPANG           /BANDUNG",
+                        "kodeKota": "0111",
+                        "kota": "Kab. Bandung "
+                    }
+                ]
+            },
+            {
+                "kodeLJK": "110",
+                "namaLJK": "PT BPD Jawa Barat Dan Banten Tbk",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "H IDA W",
+                        "nomorIdentitas": "3204096603510168",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "02",
+                        "posisiPekerjaan": "PEMILIK - Direktur",
+                        "prosentaseKepemilikan": "100",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "TAMAN KOPO INDAH BLOK J 69",
+                        "kelurahan": "MARGAHAYUTENGAH",
+                        "kecamatan": "MARGAHAYU",
+                        "kodeKota": "0111",
+                        "kota": "Kab. Bandung "
+                    }
+                ]
+            }
+        ],
+        "ringkasanFasilitas": {
+            "plafonEfektifKreditPembiayaan": "",
+            "plafonEfektifLc": "",
+            "plafonEfektifGyd": "",
+            "plafonEfektifSec": "",
+            "plafonEfektifLain": "",
+            "plafonEfektifTotal": "0",
+            "bakiDebetKreditPembiayaan": "",
+            "bakiDebetLc": "",
+            "bakiDebetGyd": "",
+            "bakiDebetSec": "",
+            "bakiDebetLain": "",
+            "bakiDebetTotal": "0",
+            "krediturBankUmum": "0",
+            "krediturBPR/S": "0",
+            "krediturLp": "0",
+            "krediturLainnya": "0",
+            "kualitasTerburuk": "",
+            "kualitasBulanDataTerburuk": ""
+        },
+        "fasilitas": {
+            "suratBerharga": [],
+            "kreditPembiayan": [],
+            "lc": [],
+            "garansiYgDiberikan": [],
+            "fasilitasLain": []
+        }
+    }
+}

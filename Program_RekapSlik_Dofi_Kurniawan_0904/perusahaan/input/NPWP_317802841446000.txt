@@ -1,0 +1,111 @@
+{
+    "header": {
+        "kodeReferensiPengguna": "BDM/1004202503",
+        "tanggalHasil": "20250410145123",
+        "idPermintaan": "644162317",
+        "idPenggunaPermintaan": "4033371",
+        "dibuatOleh": "32613-CMB2 Bandung-DANI NURJAMAN",
+        "kodeLJKPermintaan": "009",
+        "kodeCabangPermintaan": "901",
+        "kodeTujuanPermintaan": "01",
+        "tanggalPermintaan": "20250410145122",
+        "totalBagian": "1",
+        "nomorBagian": "1"
+    },
+    "perusahaan": {
+        "nomorLaporan": "930426/IDEB/0101009/2025",
+        "posisiDataTerakhir": "201808",
+        "tanggalPermintaan": "20250410145122",
+        "parameterPencarian": {
+            "namaBadanUsaha": "Medal Jaya",
+            "npwp": "",
+            "tempatPendirian": "",
+            "tanggalAktaPendirian": "",
+            "nomorAktaPendirian": ""
+        },
+        "dataPokokDebitur": [
+            {
+                "namaDebitur": "MEDAL JAYA",
+                "namaLengkap": "MEDAL JAYA",
+                "npwp": "317802841446000",
+                "bentukBu": "02",
+                "goPublic": "T",
+                "bentukBuKet": "Commanditer Venotschap (CV)",
+                "tempatPendirian": "SUMEDANG",
+                "noAktaPendirian": "413",
+                "tglAktaPendirian": "20130531",
+                "pelapor": "425",
+                "pelaporKet": "PT Bank Jabar Banten Syariah",
+                "tanggalDibentuk": "20171017160821",
+                "tanggalUpdate": "20180907193848",
+                "alamat": "DUSUN BABAKAN PEUNDEUY RT 004 RW 004",
+                "kelurahan": "NYALINDUNG",
+                "kecamatan": "CIMALAKA",
+                "kabKota": "0112",
+                "kabKotaKet": "Kab. Sumedang",
+                "kodePos": "45353",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "413",
+                "tglAktaTerakhir": "20130531",
+                "sektorEkonomi": "X-930000",
+                "sektorEkonomiKet": "Jasa Kegiatan Lainnya",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            }
+        ],
+        "kelompokPengurusPemilik": [
+            {
+                "kodeLJK": "425",
+                "namaLJK": "PT Bank Jabar Banten Syariah",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "BAKTI MUKTI WIDI",
+                        "nomorIdentitas": "3211220209840004",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "02",
+                        "posisiPekerjaan": "PEMILIK - Direktur",
+                        "prosentaseKepemilikan": "100",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "DSN BABAKAN PEUNDEUY",
+                        "kelurahan": "NYALINDUNG",
+                        "kecamatan": "CIMALAKA",
+                        "kodeKota": "0112",
+                        "kota": "Kab. Sumedang"
+                    }
+                ]
+            }
+        ],
+        "ringkasanFasilitas": {
+            "plafonEfektifKreditPembiayaan": "",
+            "plafonEfektifLc": "",
+            "plafonEfektifGyd": "",
+            "plafonEfektifSec": "",
+            "plafonEfektifLain": "",
+            "plafonEfektifTotal": "0",
+            "bakiDebetKreditPembiayaan": "",
+            "bakiDebetLc": "",
+            "bakiDebetGyd": "",
+            "bakiDebetSec": "",
+            "bakiDebetLain": "",
+            "bakiDebetTotal": "0",
+            "krediturBankUmum": "0",
+            "krediturBPR/S": "0",
+            "krediturLp": "0",
+            "krediturLainnya": "0",
+            "kualitasTerburuk": "",
+            "kualitasBulanDataTerburuk": ""
+        },
+        "fasilitas": {
+            "suratBerharga": [],
+            "kreditPembiayan": [],
+            "lc": [],
+            "garansiYgDiberikan": [],
+            "fasilitasLain": []
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "header": {
+        "kodeReferensiPengguna": "BDM/1004202503",
+        "tanggalHasil": "20250410145123",
+        "idPermintaan": "644162317",
+        "idPenggunaPermintaan": "4033371",
+        "dibuatOleh": "32613-CMB2 Bandung-DANI NURJAMAN",
+        "kodeLJKPermintaan": "009",
+        "kodeCabangPermintaan": "901",
+        "kodeTujuanPermintaan": "01",
+        "tanggalPermintaan": "20250410145122",
+        "totalBagian": "1",
+        "nomorBagian": "1"
+    },
+    "perusahaan": {
+        "nomorLaporan": "930426/IDEB/0101009/2025",
+        "posisiDataTerakhir": "201807",
+        "tanggalPermintaan": "20250410145122",
+        "parameterPencarian": {
+            "namaBadanUsaha": "Medal Jaya",
+            "npwp": "",
+            "tempatPendirian": "",
+            "tanggalAktaPendirian": "",
+            "nomorAktaPendirian": ""
+        },
+        "dataPokokDebitur": [
+            {
+                "namaDebitur": "MEDAL JAYA",
+                "namaLengkap": "MEDAL JAYA",
+                "npwp": "012615897403000",
+                "bentukBu": "18",
+                "goPublic": "T",
+                "bentukBuKet": "Perseroan Terbatas",
+                "tempatPendirian": "BOGOR",
+                "noAktaPendirian": "2",
+                "tglAktaPendirian": "19830630",
+                "pelapor": "521",
+                "pelaporKet": "PT Bank KB Bukopin Syariah",
+                "tanggalDibentuk": "20170520170157",
+                "tanggalUpdate": "20180806100046",
+                "alamat": "JL. RAYA SUKAHATI NO. 46 KP. MUARABERES",
+                "kelurahan": "SUKAHATI",
+                "kecamatan": "BOGOR",
+                "kabKota": "0108",
+                "kabKotaKet": "Kab. Bogor ",
+                "kodePos": "16810",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "2",
+                "tglAktaTerakhir": "19830630",
+                "sektorEkonomi": "X-452190",
+                "sektorEkonomiKet": "Konstruksi Gedung Lain",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            }
+        ],
+        "kelompokPengurusPemilik": [
+            {
+                "kodeLJK": "521",
+                "namaLJK": "PT Bank KB Bukopin Syariah",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "Enday Dasuki",
+                        "nomorIdentitas": "01001500",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "04",
+                        "posisiPekerjaan": "PEMILIK - Komisaris",
+                        "prosentaseKepemilikan": "50",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "Kp. Pangkalan RT.001 RW.001",
+                        "kelurahan": "Cibuluh",
+                        "kecamatan": "Kota Bogor Utara",
+                        "kodeKota": "0108",
+                        "kota": "Kab. Bogor "
+                    },
+                    {
+                        "namaSesuaiIdentitas": "Saepul Anwar",
+                        "nomorIdentitas": "01001499",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "02",
+                        "posisiPekerjaan": "PEMILIK - Direktur",
+                        "prosentaseKepemilikan": "50",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "Kp. Patamburan RT.001 RW.003",
+                        "kelurahan": "Semplak Barat",
+                        "kecamatan": "Kemang",
+                        "kodeKota": "0108",
+                        "kota": "Kab. Bogor "
+                    }
+                ]
+            }
+        ],
+        "ringkasanFasilitas": {
+            "plafonEfektifKreditPembiayaan": "",
+            "plafonEfektifLc": "",
+            "plafonEfektifGyd": "",
+            "plafonEfektifSec": "",
+            "plafonEfektifLain": "",
+            "plafonEfektifTotal": "0",
+            "bakiDebetKreditPembiayaan": "",
+            "bakiDebetLc": "",
+            "bakiDebetGyd": "",
+            "bakiDebetSec": "",
+            "bakiDebetLain": "",
+            "bakiDebetTotal": "0",
+            "krediturBankUmum": "0",
+            "krediturBPR/S": "0",
+            "krediturLp": "0",
+            "krediturLainnya": "0",
+            "kualitasTerburuk": "",
+            "kualitasBulanDataTerburuk": ""
+        },
+        "fasilitas": {
+            "suratBerharga": [],
+            "kreditPembiayan": [],
+            "lc": [],
+            "garansiYgDiberikan": [],
+            "fasilitasLain": []
+        }
+    }
+}
